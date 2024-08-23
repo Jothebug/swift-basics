@@ -14,5 +14,6 @@
         <page name='AccessControl'/>
         <page name='Arrays'/>
         <page name='Dictionaries'/>
+        <page name='ForLoops'/>
     </pages>
 </playground>

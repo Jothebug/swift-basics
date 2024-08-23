@@ -11,7 +11,7 @@ struct Quiz {
     let dateCreated: Date
     let isPremium: Bool?
     
-    // Structs have an impicit init
+    // Structs have an implicit init
     init(title: String, dateCreated: Date?, isPremium: Bool?) {
         self.title = title
         self.dateCreated = dateCreated ?? .now

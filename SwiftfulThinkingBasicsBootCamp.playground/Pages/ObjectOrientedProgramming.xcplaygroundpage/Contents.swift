@@ -25,7 +25,7 @@ import Foundation
  
  Objects in the Stack
  String, Bool, Int, most basic types
- NEW:  Struct, Enum
+ NEW:  Struct, Enum, Array
  
  Objects in the Heap -> Only objects in the Heap are counted towards ARC
  Functions

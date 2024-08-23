@@ -34,4 +34,4 @@ class ScreenViewModel {
 let viewModal: ScreenViewModel = ScreenViewModel(title: "Screen 1", showButton: true)
 
 viewModal.updateShowButton(newValue: false)
-print(viewModal.showButton)
+//print(viewModal.showButton)
